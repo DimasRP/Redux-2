@@ -5,7 +5,7 @@ const CardImage = () => {
     const {cardReducer} = useSelector((state) => state)
     return(
         <>
-        <img src={cardReducer.data.avatar}/>
+        <img src={cardReducer.data.avatar} className="avatar"/>
         </>
     )
 }

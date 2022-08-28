@@ -5,7 +5,7 @@ const NavbarImage = () => {
     const {navReducer} = useSelector((state) => state)
     return(
         <>
-        <img src={navReducer.data.logo}/>
+        <img src={navReducer.data.logo} className="logo"/>
         </>
     )
 }

@@ -1,4 +1,31 @@
 .Navbar {
     display: flex;
     justify-content: space-between;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(36, 36, 36);
+}
+h1{
+    color: white;
+}
+img{
+    width: 200px;
+}
+.card{
+    border-radius: 50px;
+    background-color:rgb(85, 99, 201);
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    width: 100px;
+}
+.avatar{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
 }

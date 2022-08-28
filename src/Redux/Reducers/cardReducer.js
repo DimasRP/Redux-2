@@ -1,8 +1,8 @@
 
 const cardState = {
     data: {
-        name: "Rizki",
-        avatar: "https://reqres.in/img/faces/7-image.jpg"
+        name: "Strike Freedom",
+        avatar: "https://4.bp.blogspot.com/-Z0ZIYp0Uqq8/VEWHe98wmmI/AAAAAAAHhMk/T4KCWfkjIQQ/s1600/Untitled-2.jpg"
     }
 }
 

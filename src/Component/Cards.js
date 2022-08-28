@@ -9,7 +9,7 @@ const Cards = () =>{
         <>
             {
             !!authReducer.isLogin == false ? <h1>Belum</h1> : 
-            <div> 
+            <div className="card"> 
                 <CardName/>
                 <CardImage/>
             </div>

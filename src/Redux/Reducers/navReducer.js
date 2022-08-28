@@ -1,7 +1,7 @@
 const navState = {
     data: {
-        company_name: "Rizki",
-        logo: "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r4.png"
+        company_name: "Gundam",
+        logo: "https://iconape.com/wp-content/files/kz/153925/png/gundam-00-celestial-being-logo.png"
     }
 }
 
